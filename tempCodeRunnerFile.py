@@ -1,0 +1,1 @@
+funny_chain.invoke({"topic": "parrots"})
