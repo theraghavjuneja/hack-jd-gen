@@ -6,3 +6,4 @@ python-dotenv
 langchain
 langchain_google_genai
 langserve
+sse_starlette
