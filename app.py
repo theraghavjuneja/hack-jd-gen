@@ -68,9 +68,9 @@ You are organizing a hackathon whose details are given below
 """)
 detailed_job_template=ChatPromptTemplate.from_template("""
 You are listing out your job on a platform.The details of jobs are given below
-    {details}.
+    {details}. 
     
-    Please provide a much comprehensive and a detailed job description. Make sure to include the headers given below
+    Please provide a much comprehensive and a detailed job description. Make sure to include the headers given below                                               
     -Designation of the Job
     -Years of Experience Required
     -Salary Offered
